@@ -6,5 +6,9 @@ demo project work
 
 test and prepare 
 newline
-new
+
+## demo HTML
+
+1. Open index.html in your browser.
+
 
